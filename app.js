@@ -1,6 +1,5 @@
 const { sequelize, User, Post } = require("./models");
 const express = require("express");
-const post = require("./models/post");
 
 const app = express();
 
